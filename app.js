@@ -4,7 +4,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Hello DevOps from AWS 🚀');
+  res.send('Hello Mayur and akash from ESS 🚀');
 });
 
 app.listen(PORT, '0.0.0.0', () => {
